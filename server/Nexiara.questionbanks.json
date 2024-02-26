@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65dcc68aa1fc8fff82678941"
+  },
+  "question": "Who wrote '1984'?",
+  "option1": "George Orwell",
+  "option2": "F. Scott Fitzgerald",
+  "option3": "Ernest Hemingway",
+  "option4": "J.K. Rowling",
+  "correctAnswer": "George Orwell",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc692a1fc8fff82678943"
+  },
+  "question": "What is the capital of Canada?",
+  "option1": "Toronto",
+  "option2": "Montreal",
+  "option3": "Ottawa",
+  "option4": "Vancouver",
+  "correctAnswer": "Ottawa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc699a1fc8fff82678945"
+  },
+  "question": "Who is credited with discovering gravity?",
+  "option1": "Isaac Newton",
+  "option2": "Galileo Galilei",
+  "option3": "Albert Einstein",
+  "option4": "Nikola Tesla",
+  "correctAnswer": "Isaac Newton",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6a1a1fc8fff82678947"
+  },
+  "question": "Which animal is known as the 'King of the Jungle'?",
+  "option1": "Lion",
+  "option2": "Elephant",
+  "option3": "Gorilla",
+  "option4": "Tiger",
+  "correctAnswer": "Lion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6a8a1fc8fff82678949"
+  },
+  "question": "Who painted 'Starry Night'?",
+  "option1": "Vincent van Gogh",
+  "option2": "Pablo Picasso",
+  "option3": "Leonardo da Vinci",
+  "option4": "Claude Monet",
+  "correctAnswer": "Vincent van Gogh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6b2a1fc8fff8267894b"
+  },
+  "question": "What is the chemical symbol for gold?",
+  "option1": "Ag",
+  "option2": "Au",
+  "option3": "Fe",
+  "option4": "Cu",
+  "correctAnswer": "Au",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6bca1fc8fff8267894d"
+  },
+  "question": "Who wrote 'The Great Gatsby'?",
+  "option1": "Ernest Hemingway",
+  "option2": "F. Scott Fitzgerald",
+  "option3": "Mark Twain",
+  "option4": "J.D. Salinger",
+  "correctAnswer": "F. Scott Fitzgerald",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6c3a1fc8fff8267894f"
+  },
+  "question": "Which country is known as the 'Land of the Rising Sun'?",
+  "option1": "China",
+  "option2": "Japan",
+  "option3": "India",
+  "option4": "South Korea",
+  "correctAnswer": "Japan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6caa1fc8fff82678951"
+  },
+  "question": "Who invented the telephone?",
+  "option1": "Thomas Edison",
+  "option2": "Nikola Tesla",
+  "option3": "Alexander Graham Bell",
+  "option4": "Albert Einstein",
+  "correctAnswer": "Alexander Graham Bell",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc6d1a1fc8fff82678953"
+  },
+  "question": "What is the largest planet in our solar system?",
+  "option1": "Venus",
+  "option2": "Mars",
+  "option3": "Jupiter",
+  "option4": "Saturn",
+  "correctAnswer": "Jupiter",
+  "__v": 0
+}]
