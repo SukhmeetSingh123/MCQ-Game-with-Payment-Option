@@ -27,7 +27,7 @@ const Home = () => {
     };
     return (
         <Wrapper className="container">
-            <h1 className="heading text-center">Nexiara's Quiz</h1>
+            <h1 className="heading text-center">MCQ Quiz Game</h1>
             <div className="row">
                 <div className="col-md-8 offset-md-2">
                     <ul>

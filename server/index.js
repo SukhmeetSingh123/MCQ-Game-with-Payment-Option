@@ -14,5 +14,5 @@ app.use('/api/payment',require('./Routes/paymentRoutes'));
 app.use('/api/questionBank',require('./Routes/questionBankRoutes'));
 
 app.listen(port,()=>{
-    console.log(`Nexiara Backened listening on port ${port} `);
+    console.log(`MCQ Game Backened listening on port ${port} `);
 })
